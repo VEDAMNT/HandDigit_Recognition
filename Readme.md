@@ -59,9 +59,3 @@ python hand_digit_recognition.py
 
 After training the model for one epoch, it achieves an accuracy of approximately 98% on the test set.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace `your_username` in the clone URL with your actual GitHub username. You can also add more sections or details as needed.
