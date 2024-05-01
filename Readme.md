@@ -59,3 +59,5 @@ python hand_digit_recognition.py
 
 After training the model for one epoch, it achieves an accuracy of approximately 98% on the test set.
 
+![image](https://github.com/VEDAMNT/HandDigit_Recognition/assets/99802920/04885618-639c-43df-b1ea-830eff759529)
+
