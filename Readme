@@ -1,4 +1,3 @@
-
 # Simple Hand Digit Recognition with TensorFlow
 
 This repository contains a simple Python script that demonstrates hand digit recognition using the MNIST dataset and TensorFlow.
